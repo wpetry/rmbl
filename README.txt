@@ -1,7 +1,6 @@
 RMBLclim Documentation
 
-This repository contains R utilities for downloading and analyzing climate data.  Currently support is limited to Unix/Linux machines
-because of differences in file path handling on Windows.
+This repository contains R utilities for downloading and analyzing climate data.  Currently support is limited to Unix/Linux machines because of differences in the way file paths are specified by Windows.
 
 To Do:
 - Document existing functions
